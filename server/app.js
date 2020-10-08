@@ -3,6 +3,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const passport = require('passport');
 const cookieSession = require('cookie-session');
+require('dotenv').config();
 require('./passport-setup');
 
 const { Shows } = require('./api/shows');

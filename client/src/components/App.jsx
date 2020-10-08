@@ -12,7 +12,7 @@ import Profile from './Profile/Profile';
 import Search from './search/Search';
 import Splash from './splash/Splash';
 
-//COMMENT TEST
+// COMMENT TEST
 class App extends Component {
   constructor(props) {
     super(props);
@@ -91,7 +91,8 @@ class App extends Component {
                 as={Container}
                 style={{
                   // border: 'solid blue 2px',
-                  height: '90vh',
+                  width: '20vw', 
+                  height: '100vh',
                   backgroundColor: '#313840',
                 }}
               >
