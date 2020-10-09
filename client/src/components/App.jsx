@@ -37,7 +37,7 @@ const App = () => {
     } if (view === 'Profile') {
       return <Profile />;
     } if (view === 'Map') {
-      return <SetupProfile />;
+      return <Map />;
     }
     return <Splash />;
   };
