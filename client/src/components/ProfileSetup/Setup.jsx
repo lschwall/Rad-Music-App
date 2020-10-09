@@ -10,16 +10,15 @@ const SetupProfile = () => {
   const test = {};
   return (
 
-    <div as={Container}
-    style={{ 
-        // border: 'solid 2px black', 
-        padding: '20px' 
-    }}
+    <div
+      as={Container}
+      style={{
+      // border: 'solid 2px black',
+        padding: '20px',
+      }}
     >
       <Col>
-        <Row 
-        // style={{ border: 'solid 2px red', padding: '10px' }}
-        >
+        <Row>
           <div>
             <Form>
               <Form.Group>
