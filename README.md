@@ -1,10 +1,10 @@
 ### Table of Contents
 
->[About](#about)
->[Details](#details)
->[System-Requirements](#system-requirements)
->[Installation](#installation)
->[Database](#database)
+>[About](#about)<br />
+>[Details](#details)<br />
+>[System-Requirements](#system-requirements)<br />
+>[Installation](#installation)<br />
+>[Database](#database)<br />
 >[Tech-Stack](#tech-stack)
 
 ### About
