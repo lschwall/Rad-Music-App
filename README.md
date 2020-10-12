@@ -9,13 +9,14 @@
 
 ### About
 
-> ##### Radma:  `the totally radical music assistant`
+> ##### Radma: <br />
+`the totally radical music assistant`
 
 ### Details: 
 >`Radma is a tool fo those that love music. The grunge heads, the easy listener, the old man down the street! The radically interactive app lets you add your favorite bands that the locals may not know about, search bands that you know of, remind yourself of events with texts and upload your own pics!`
 
 ### System-Requirements
->`Node version >= 8`
+>`Node version >= 8`<br />
 >`npm >= 6`
 
 ### Installation
